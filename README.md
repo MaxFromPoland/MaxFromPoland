@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate developer from Poland</h3>
 
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=nightshadetvn&show_icons=true)
-![](https://dcbadge.vercel.app/api/shield/801762101923676171)
+![](https://dcbadge.vercel.app/api/shield/1042539859245547550)
 
 
 - 🔭 I’m currently working on [Qwarzu Bottu, mine and my friend's discord bot](https://github.com/DeltaWither/Qwarzu-botto)
