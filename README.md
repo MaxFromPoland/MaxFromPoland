@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">I am a passionate developer from Poland</h3>
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=nightshadetvn&show_icons=true)
-![](https://dcbadge.vercel.app/api/shield/1042539859245547550)
-
+[!GitHub stats](https://github-readme-stats.vercel.app/api?username=nightshadetvn)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [Qwarzu Bottu, mine and my friend's discord bot](https://github.com/DeltaWither/Qwarzu-botto)
 
