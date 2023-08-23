@@ -1,22 +1,15 @@
-<h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">I am a passionate developer from Poland</h3>
+hi, i'm max, an cyber safety student from poland. 
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=nightshadetvn)](https://github.com/anuraghazra/github-readme-stats)
+### more info
 
-- 🔭 I’m currently working on [Qwarzu Bottu, mine and my friend's discord bot](https://github.com/DeltaWither/Qwarzu-botto)
+📄 - most of my code is private due to personal reasons. \
+📖 - i code mostly in python, due to the fact i love working on complex projects \
+✨ - proud user of arch linux
 
-- 📚 I'm also working on [MaciejOS, an operating system that's a tribute to my IT teacher](https://github.com/nightshadetvn/MaciejOS-CSharp)
+### Contact me
 
-- 🌱 I’m currently learning **JavaScript and Python**
-
-- ✨ I'm also fluent at **C#**
-
-- ⚡ Fun fact **I think I'm funny :)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-- Via Discord : rudy2#5560
-</p>
-<p align="left">
--Via Email : mmax3163@gmail.com
-</p>
+📨 email - [mmax3163@gmail.com](mailto:mmax3163@gmail.com)\
+Ⓜ️ mastodon - [@rudy3@infosec.exchange](https://infosec.exchange/@rudy3)\
+✨ discord - [rudy3.](https://discordapp.com/users/1042539859245547550)\
+👨‍💻 github - [nightshadetvn](https://github.com/nightshadetvn)\
+🐦 twitter - [\_rudy3\_](https://twitter.com/_rudy3_)
